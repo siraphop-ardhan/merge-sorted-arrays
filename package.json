@@ -1,0 +1,27 @@
+{
+  "name": "merge-sorted-arrays",
+  "version": "1.0.0",
+  "description": "Merge three sorted arrays (TypeScript, No sort(), with Unit Test)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siraphop-ardhan/merge-sorted-arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siraphop-ardhan/merge-sorted-arrays/issues"
+  },
+  "homepage": "https://github.com/siraphop-ardhan/merge-sorted-arrays#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  }
+}
